@@ -6,3 +6,4 @@ Feel free to customize and expand upon the project to suit your specific require
 ## Projects
 
 1. Advertisment Sale Prediction - [Ad. Sales Prediction](./notebooks/Ad.%20Sales%20Prediction.ipynb) / [dataset](./datasets/Ad.%20Sales%20Prediction.csv)
+2. Handwritten Digit Recognition - [Handwritten Digit Recognition](./notebooks/Handwritten_Digit_Recognition.ipynb)
