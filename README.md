@@ -5,4 +5,4 @@ Feel free to customize and expand upon the project to suit your specific require
 
 ## Projects
 
-1. Advertisment Sale Prediction - [Ad. Sales Prediction](./notebooks/Ad.%20Sales%20Prediction.ipynb)
+1. Advertisment Sale Prediction - [Ad. Sales Prediction](./notebooks/Ad.%20Sales%20Prediction.ipynb) / [dataset](./datasets/Ad.%20Sales%20Prediction.csv)
