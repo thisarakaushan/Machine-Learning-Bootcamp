@@ -11,8 +11,8 @@ Feel free to customize and expand upon the project to suit your specific require
      
 2. Handwritten Digit Recognition - [Handwritten Digit Recognition](./notebooks/Handwritten_Digit_Recognition.ipynb)
    
-  - Using  [K- Nearest Neighbor Model](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html)
+   - Using  [K- Nearest Neighbor Model](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html)
     
 3. Titanic Survival Prediction - [Titanic Survival Prediction](./notebooks/Titanic%20Survival%20Prediction_NavieBayes.ipynb) / [dataset](./datasets/titanic.csv)
    
-  - Using [Gaussian Naive Bayes Algorithm](https://scikit-learn.org/stable/modules/naive_bayes.html)
+   - Using [Gaussian Naive Bayes Algorithm](https://scikit-learn.org/stable/modules/naive_bayes.html)
