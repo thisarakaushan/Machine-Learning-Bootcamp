@@ -24,3 +24,5 @@ Feel free to customize and expand upon the project to suit your specific require
 5. [Digit Recognition](./notebooks/Digit%20Recognition_Random%20Forest.ipynb) / [dataset](./datasets/digit_recognition)
    
    - Using  [Random Forest Classifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
+
+6. [EDA on Superstore dataset](./notebooks/EDA%20on%20Superstore%20dataset.ipynb) / [dataset](//datasets/Superstore.csv)
