@@ -23,4 +23,4 @@ Feel free to customize and expand upon the project to suit your specific require
 
 5. [Digit Recognition](./notebooks/Digit%20Recognition_Random%20Forest.ipynb) / [dataset](./datasets/digit_recognition)
    
-   - Using  [Random Forest Classifier]([https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
+   - Using  [Random Forest Classifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
