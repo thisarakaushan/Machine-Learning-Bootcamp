@@ -20,3 +20,7 @@ Feel free to customize and expand upon the project to suit your specific require
 4. [Leaf Species Detection](./notebooks/Leaf%20Species%20Detection.ipynb)
 
    - Using [Decision Tree Classifier](https://scikit-learn.org/stable/modules/tree.html)
+
+5. [Digit Recognition](./notebooks/Digit%20Recognition_Random%20Forest.ipynb) / [dataset](./datasets/digit_recognition)
+   
+   - Using  [Random Forest Classifier]([https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
