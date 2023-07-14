@@ -29,10 +29,10 @@ Feel free to customize and expand upon the project to suit your specific require
 
 7. [Breast Cancer Prediction](./notebooks/Breast%20Cancer%20Detection_various%20ML%20algorithms.ipynb) / [dataset](//datasets/breast_cancer.csv)
 
-   - Using six algorithms:
-           1. [Linear Discriminant Analysis](https://scikit-learn.org/stable/modules/generated/sklearn.discriminant_analysis.LinearDiscriminantAnalysis.html)
-           2. [Logistic Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
-           3. [Decision Tree Classifier](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html)
-           4. [K- Nearest Neighbor Classifier](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html)
-           5. [Gaussian Naive Bayes Algorithm](https://scikit-learn.org/stable/modules/naive_bayes.html)
+   - Using six algorithms:<br>     
+           1. [Linear Discriminant Analysis](https://scikit-learn.org/stable/modules/generated/sklearn.discriminant_analysis.LinearDiscriminantAnalysis.html):<br>  
+           2. [Logistic Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html):<br>  
+           3. [Decision Tree Classifier](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html):<br>  
+           4. [K- Nearest Neighbor Classifier](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html):<br>  
+           5. [Gaussian Naive Bayes Algorithm](https://scikit-learn.org/stable/modules/naive_bayes.html):<br>  
            6. [Support Vector Machine](https://scikit-learn.org/stable/modules/generated/sklearn.svm.LinearSVC.html)
