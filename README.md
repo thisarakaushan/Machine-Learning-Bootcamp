@@ -36,3 +36,7 @@ Feel free to customize and expand upon the project to suit your specific require
            4. [K- Nearest Neighbor Classifier](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html):<br>  
            5. [Gaussian Naive Bayes Algorithm](https://scikit-learn.org/stable/modules/naive_bayes.html):<br>  
            6. [Support Vector Machine](https://scikit-learn.org/stable/modules/generated/sklearn.svm.LinearSVC.html)
+
+8. [Exam Marks Prediction](./notebooks/Exam%20Marks%20Prediction_Linear%20Regression.ipynb) / [dataset](./datasets/Exam%20marks.csv)
+
+   - Using [Linear Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html)
