@@ -40,3 +40,16 @@ Feel free to customize and expand upon the project to suit your specific require
 8. [Exam Marks Prediction](./notebooks/Exam%20Marks%20Prediction_Linear%20Regression.ipynb) / [dataset](./datasets/Exam%20marks.csv)
 
    - Using [Linear Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html)
+
+9. [Salary Prediction](./notebooks/Salary%20Predict_Polynomial%20Regression.ipynb) / [dataset](./datasets/Salaries.csv)
+
+    - Using [Polynomial Regression](https://www.javatpoint.com/machine-learning-polynomial-regression)
+      
+      ![image](https://github.com/thisarakaushan/Machine-Learning-Bootcamp/assets/125348115/9d08d9bf-da71-468f-bd04-3064ab613e35)
+      Equation of the Polynomial Regression Model:
+         1. Simple Linear Regression equation:    y = b0+b1x        
+
+         2. Multiple Linear Regression equation:  y= b0+b1x+ b2x2+ b3x3+....+ bnxn        
+
+         3. Polynomial Regression equation:       y= b0+b1x + b2x2+ b3x3+....+ bnxn         
+
