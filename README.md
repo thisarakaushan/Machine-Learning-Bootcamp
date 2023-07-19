@@ -46,7 +46,8 @@ Feel free to customize and expand upon the project to suit your specific require
     - Using [Polynomial Regression](https://www.javatpoint.com/machine-learning-polynomial-regression)
       
       ![image](https://github.com/thisarakaushan/Machine-Learning-Bootcamp/assets/125348115/9d08d9bf-da71-468f-bd04-3064ab613e35)
-      Equation of the Polynomial Regression Model:
+    - Equation of the Polynomial Regression Model:
+      
          1. Simple Linear Regression equation:    y = b0+b1x        
 
          2. Multiple Linear Regression equation:  y= b0+b1x+ b2x2+ b3x3+....+ bnxn        
