@@ -11,7 +11,7 @@ Feel free to customize and expand upon the project to suit your specific require
 
 <img width="238" alt="image" src="https://github.com/thisarakaushan/Machine-Learning-Bootcamp/assets/125348115/cea43bda-3de0-4fd9-b912-e9cb404eba70">
 
-<img width="250" alt="image" src="https://github.com/thisarakaushan/Machine-Learning-Bootcamp/assets/125348115/9c028aeb-8445-4a40-9c26-36caebebfbc8">
+<img width="245" alt="image" src="https://github.com/thisarakaushan/Machine-Learning-Bootcamp/assets/125348115/9c028aeb-8445-4a40-9c26-36caebebfbc8">
 
 <img width="250" alt="image" src="https://github.com/thisarakaushan/Machine-Learning-Bootcamp/assets/125348115/c1396967-049f-45e9-9bc4-cefeeea8fc72">
 
@@ -21,7 +21,7 @@ Feel free to customize and expand upon the project to suit your specific require
 
 <img width="250" alt="image" src="https://github.com/thisarakaushan/Machine-Learning-Bootcamp/assets/125348115/b3514a39-6554-4f43-8930-018aeead325b">
 
-<img width="250" alt="image" src="https://github.com/thisarakaushan/Machine-Learning-Bootcamp/assets/125348115/37faeb71-69f3-4ffd-8510-e13fbc246729">
+<img width="245" alt="image" src="https://github.com/thisarakaushan/Machine-Learning-Bootcamp/assets/125348115/37faeb71-69f3-4ffd-8510-e13fbc246729">
 
 <img width="238" alt="image" src="https://github.com/thisarakaushan/Machine-Learning-Bootcamp/assets/125348115/2a2fdb31-f8a7-4b49-a2c0-23e8c934f809">
 
