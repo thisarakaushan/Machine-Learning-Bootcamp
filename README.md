@@ -82,3 +82,6 @@ Feel free to customize and expand upon the project to suit your specific require
          3. Polynomial Regression equation:       y= b0+b1x + b2x2+ b3x3+....+ bnxn         
 
 10. [Used Car Price Prediction](./notebooks/Car%20Price%20Prediction_Regression%20models.ipynb) / [dataset](./datasets/car_dataset.csv)
+
+11. [Market Basket Analysis](https://github.com/thisarakaushan/Machine-Learning-Bootcamp/tree/main/notebooks/Market%20Basket%20Analysis) / [dataset](./datasets/store_data.csv)
+   - Using ```APRIORI``` AND ```ECLAT```
