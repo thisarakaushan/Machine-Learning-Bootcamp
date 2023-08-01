@@ -84,7 +84,7 @@ Feel free to customize and expand upon the project to suit your specific require
 10. [Used Car Price Prediction](./notebooks/Car%20Price%20Prediction_Regression%20models.ipynb) / [dataset](./datasets/car_dataset.csv)
 
 11. [Market Basket Analysis](https://github.com/thisarakaushan/Machine-Learning-Bootcamp/tree/main/notebooks/Market%20Basket%20Analysis) / [dataset](./datasets/store_data.csv)
-- Using ```APRIORI``` AND ```ECLAT```
+   - Using ```APRIORI``` AND ```ECLAT```
 
 12. [WebAd. Optimization using Reinforcement Learning](https://github.com/thisarakaushan/Machine-Learning-Bootcamp/blob/main/notebooks/WebAd.%20Optimization%20using%20Reinforcement%20Learning.ipynb) / [dataset](https://github.com/thisarakaushan/Machine-Learning-Bootcamp/blob/main/datasets/Ads_CTR_Optimisation.csv)
-- [```Reinforcement Learning```](https://towardsdatascience.com/reinforcement-learning-101-e24b50e1d292)
+   - [```Reinforcement Learning```](https://towardsdatascience.com/reinforcement-learning-101-e24b50e1d292)
