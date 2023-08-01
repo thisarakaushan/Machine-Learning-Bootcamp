@@ -87,7 +87,7 @@ Feel free to customize and expand upon the project to suit your specific require
    - Using ```APRIORI``` AND ```ECLAT```
 
 12. [WebAd. Optimization using Reinforcement Learning](./notebooks/WebAd.%20Optimization%20using%20Reinforcement%20Learning.ipynb) / [dataset](./datasets/Ads_CTR_Optimisation.csv)
-   - [```Reinforcement Learning```](https://towardsdatascience.com/reinforcement-learning-101-e24b50e1d292)
+   - Using [```Reinforcement Learning```](https://towardsdatascience.com/reinforcement-learning-101-e24b50e1d292)
 
 13. [Ad _placement Optimization using Reinforcement Learning](./notebooks/Ad%20_placement%20Optimization%20using%20Reinforcement%20Learning.ipynb) / [dataset](./datasets/Ads_CTR_Optimisation.csv)
-   - [```Reinforcement Learning```](https://towardsdatascience.com/reinforcement-learning-101-e24b50e1d292)
+   - Using [```Reinforcement Learning```](https://towardsdatascience.com/reinforcement-learning-101-e24b50e1d292)
